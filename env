@@ -1,0 +1,8 @@
+GEMINI_API_KEY=AQ.Ab8RN6JxfKzAnciasCk3Yypca6aPNlxl6kXXa6mpOAOLqR_mOw
+
+GEMINI_WORKOUT_MODEL=gemini-3.8-flash
+GEMINI_FLASH_MODEL=gemini-3.8-flash
+
+DEMO_MODE=true
+
+DATABASE_URL=sqlite:///./fitbuddy.db
